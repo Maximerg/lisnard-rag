@@ -1,0 +1,14 @@
+# Rentrée politique 2025, Cannes !
+
+- Source : https://www.youtube.com/watch?v=RBMtqjJP4rw
+- Chaîne/compte : David Lisnard
+- Date de publication : 2025-09-08
+- Transcription : automatique, **non vérifiée**. Les questions des journalistes et les autres intervenants ne sont pas séparés des propos de David Lisnard.
+
+[00:00:09] [Musique] Parce que avec Nouvelle énergie, nous Parce que avec Nouvelle énergie, nous allons porter une nouvelle espérance allons porter une nouvelle espérance pour la France. Avec Nouvelle énergie, pour la France. Avec Nouvelle énergie, nous allons libérer la France du carcan nous allons libérer la France du carcan bureaucratique. Nous allons libérer la bureaucratique. Nous allons libérer la magistrature des freins idéologiques. magistrature des freins idéologiques. Nous allons libérer la police de la Nous allons libérer la police de la paperace, de la procédure, de tout ce paperace, de la procédure, de tout ce qui l'empêche sur le terrain. Nous qui l'empêche sur le terrain. Nous allons libérer l'enseignement et
+
+[00:00:39] allons libérer l'enseignement et l'éducation de toutes les rigidités qui l'éducation de toutes les rigidités qui empêchent de sanctionner les mauvais empêchent de sanctionner les mauvais élèves et qui empêchent d'encourager les élèves et qui empêchent d'encourager les bons élèves. Nous allons libérer les bons élèves. Nous allons libérer les entreprises de l'excès de charge et de entreprises de l'excès de charge et de l'excès de fiscalité et de règles. Nous l'excès de fiscalité et de règles. Nous allons libérer les salariés de l'excès allons libérer les salariés de l'excès de cotisation. de cotisation. Cotisez moins pour gagner plus. Ce sera Cotisez moins pour gagner plus. Ce sera la réalité de ce que nous proposerons.
+
+[00:01:03] la réalité de ce que nous proposerons. Nous allons libérer les collectivités Nous allons libérer les collectivités territoriales d'une tutelle étouffante, territoriales d'une tutelle étouffante, d'un état sclérosant, incapable d'être d'un état sclérosant, incapable d'être un porteur de projet et d'accompagner le un porteur de projet et d'accompagner le développement humain. Nous allons développement humain. Nous allons libérer toutes les sources de créativité libérer toutes les sources de créativité qui font les grandes nations, qui font qui font les grandes nations, qui font les grands peuples, qui font la France les grands peuples, qui font la France parce que la France, elle a en elle parce que la France, elle a en elle cette nouvelle énergie et avec vous,
+
+[00:01:28] cette nouvelle énergie et avec vous, nous allons faire gagner une nouvelle nous allons faire gagner une nouvelle énergie pour la France. Alors vive Cann, énergie pour la France. Alors vive Cann, vive la France et vive la liberté. Alléluia.

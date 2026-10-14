@@ -1,0 +1,26 @@
+# Programme Nouvelle Énergie — education
+
+- Source : https://www.unenouvelleenergie.fr/notre-programme/education/
+- Date : non datée (page de programme mise à jour en continu)
+
+L’effondrement de notre école est un désastre national. L’égalitarisme, la démagogie, le laxisme éducatif sont de véritables trahisons. Aujourd’hui, la bataille pour l’éducation doit être la mère de toutes les batailles. Ne pas la mener, c’est renoncer à la civilisation.
+Il ne s’agit pas d’ajuster ou de corriger : il faut tout changer. Le naufrage éducatif signe l’échec d’un modèle bureaucratique et égalitariste qui, au lieu de réduire les inégalités, les aggrave. À rebours de cette idéologie destructrice, notre ambition est de rebâtir une école de l’exigence, de la transmission, du mérite.
+La philosophie de Nouvelle Énergie repose sur un principe simple : l’école doit offrir à chacun les moyens d’atteindre l’excellence, sous toutes ses formes. L’intelligence manuelle vaut l’intelligence théorique ; l’apprentissage, la science, les humanités, les arts : tout doit concourir à former des individus libres, responsables, émancipés. C’est le cœur de notre combat pour la méritocratie républicaine.
+I. En finir avec l’égalitarisme bureaucratique
+La priorité absolue est de casser l’égalitarisme qui a tué l’exigence. Il faut abroger la carte scolaire qui enferme les familles dans leur quartier, souvent contre leur gré, et laisse aux plus aisés le monopole de l’évitement. Nous proposons un droit réel au libre choix de l’école, garanti par la transparence des résultats et l’instauration progressive d’un chèque-éducation : un financement public équivalent, que la famille choisisse l’enseignement public ou privé.
+De même, il faut rendre l’école publique désirable à nouveau. Cela passe par la liberté donnée aux chefs d’établissement de recruter leurs équipes pédagogiques, d’appliquer leurs méthodes, de gérer leur budget, de refuser les élèves qui nuisent au collectif. Cette autonomie sera la contrepartie d’une évaluation publique des résultats, menée avec rigueur et clarté.
+L’enseignement privé n’est pas le problème. Il est souvent la réponse à une école publique disqualifiée. Plutôt que de lui imposer une « mixité sociale » arbitraire, il faut élever le niveau général de l’enseignement, partout.
+II. Recentrer l’école sur sa mission : instruire
+L’école n’est pas un lieu de vie : c’est un lieu de savoir. Elle doit transmettre les fondamentaux – lire, écrire, compter, raisonner – sans lesquels aucune émancipation n’est possible. Nous proposons l’instauration d’un certificat de fin de primaire, dont la validation conditionnera l’entrée au collège. Ceux qui ne maîtrisent pas les savoirs essentiels bénéficieront d’un accompagnement spécifique, et non d’un passage automatique vers l’échec.
+Les programmes seront recentrés sur les disciplines structurantes. L’initiation au grec, au latin, et à la philosophie sera étendu, dès le primaire, comme nous l’avons expérimenté avec succès à Cannes. Loin d’être un luxe, les humanités sont le socle de la pensée critique. La rigueur de la langue forge la rigueur de l’esprit.
+Contre quarante ans de pédagogisme inefficace, nous rétablirons l’autorité du professeur, le primat du cours sur l’animation, et la logique de progression sur celle du ressenti. La réforme de l’année scolaire et des rythmes fera l’objet d’une autonomie locale encadrée.
+III. Redonner autorité et attractivité au métier d’enseignant
+On ne résoudra pas la crise de l’école sans restaurer la figure centrale du professeur. Cela suppose de sortir du traitement uniforme et anonyme imposé par l’Éducation nationale. Nous proposons une augmentation de 20 % des rémunérations en cinq ans, conditionnée à une réorganisation profonde : autonomie accrue, présence renforcée dans l’établissement, formation continue obligatoire, évaluation régulière. Les enseignants doivent être à nouveau soutenus, respectés, responsabilisés.
+Un corps unique d’enseignants contractuels, recrutés sur concours national, sera progressivement mis en place, avec des missions élargies et des perspectives de carrière attractives. L’Éducation nationale sera recentrée sur le tronc commun obligatoire (6-16 ans), l’éveil (1-6 ans) étant confié aux communes dans une logique de subsidiarité.
+IV. Faire des lycées professionnels et de l’apprentissage des voies d’excellence
+Notre système méprise l’intelligence pratique et l’esprit d’initiative. Il faut en finir avec cette hiérarchie absurde des filières. Nous renforcerons les lycées professionnels et les CFA, en les liant étroitement aux entreprises et aux besoins de l’économie locale. L’ouverture ou la fermeture des formations sera décidée au niveau local, en fonction des débouchés réels.
+Des classes d’excellence en mathématiques et en sciences seront créées dans chaque académie, pour tirer vers le haut. La logique de compétence primera sur celle des parcours uniformes. L’objectif : réconcilier formation, dignité du travail, et attractivité des métiers.
+Les questions qu’on nous pose sur ce thème
+Chacune a sa page, avec une réponse en quelques lignes et les citations de David Lisnard, datées et sourcées.
+Quel candidat veut supprimer la carte scolaire ?
+Quelles sont les propositions de David Lisnard pour l’école ?
