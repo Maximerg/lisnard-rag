@@ -1,0 +1,75 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Base de connaissances David Lisnard — un passage",
+ "type": "object",
+ "required": [
+  "id",
+  "claim",
+  "speaker",
+  "source_type",
+  "source_url",
+  "theme"
+ ],
+ "properties": {
+  "id": {
+   "type": "string",
+   "description": "identifiant stable, hash de l'URL et du texte"
+  },
+  "claim": {
+   "type": "string",
+   "description": "le passage, dans son texte"
+  },
+  "quote": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "citation verbatim, quand la source en distingue une"
+  },
+  "speaker": {
+   "type": "string",
+   "description": "David Lisnard, ou Nouvelle Énergie pour le programme"
+  },
+  "source_type": {
+   "type": "string",
+   "description": "famille de source : X, Instagram, diarisation, tribune, programme…"
+  },
+  "source_title": {
+   "type": "string",
+   "description": "titre de la source"
+  },
+  "source_url": {
+   "type": "string",
+   "description": "lien vers l'original"
+  },
+  "date": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "description": "date de publication AAAA-MM-JJ, ou null"
+  },
+  "date_precision": {
+   "type": [
+    "string",
+    "null"
+   ],
+   "enum": [
+    "day",
+    "year",
+    null
+   ]
+  },
+  "theme": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   },
+   "description": "thèmes du passage"
+  },
+  "verification": {
+   "type": "string",
+   "description": "méthode d'attribution et de vérification"
+  }
+ }
+}
