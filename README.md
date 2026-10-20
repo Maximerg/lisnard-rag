@@ -45,6 +45,34 @@ Le champ `verification` de chaque entrée indique laquelle de ces méthodes s'ap
 - Les pages du programme sont mises à jour en continu et n'ont **pas de date** (`null`). La date de collecte n'est jamais utilisée comme date de publication.
 - Pour un RAG, privilégiez les positions les plus récentes : elles peuvent évoluer.
 
+## La note de vision (`data/vision.md`)
+
+**34 000 caractères, 20 sections.** C'est la synthèse du projet, thème par thème : position actuelle, évolution datée, arguments, chiffres clés. Elle est produite à partir du corpus lui-même et sert de contexte à un modèle de langage qui doit répondre sur David Lisnard sans avoir à reconstituer une position à partir de dix extraits.
+
+Elle est utile pour trois usages :
+- **comme contexte système** d'un assistant : la charger entière coûte environ 6 000 jetons ;
+- **comme document de lecture** pour un humain qui veut comprendre le projet en vingt minutes ;
+- **comme garde-fou** : elle dit aussi ce qui n'est **pas** couvert, ce qui évite d'inventer une position.
+
+Elle est régénérée quand le corpus évolue de façon significative. Elle ne remplace pas les passages : elle les résume. Pour citer, on revient toujours à `data/kb.jsonl`.
+
+## Structure des fichiers
+
+```
+data/
+  kb.jsonl          3 505 passages, un objet JSON par ligne
+  kb.csv            même contenu, séparateur virgule, thèmes joints par « ; »
+  vision.md         la synthèse du projet, 20 sections
+  schema.json       description formelle des 11 champs
+  stats.json        comptages par source, par année, par thème
+  themes/           un fichier .jsonl par thème (25 fichiers)
+raw/
+  programme/        les pages du programme officiel, en texte
+  x/                les posts X de @davidlisnard et @nouv_energie
+scripts/
+  exporter_public.py  reconstruit data/ depuis la base privée
+```
+
 ## Schéma (`data/kb.jsonl`, `data/kb.csv`, `data/themes/*.jsonl`)
 
 | Champ | Description |
@@ -82,6 +110,67 @@ for e in search("carte scolaire école"):
 ```
 
 Avec un modèle de langage, citez toujours `source_url` et `date`. Pour une citation exacte à partir d'une vidéo, vérifiez sur l'original : la transcription est automatique.
+
+### Charger un seul thème
+
+```python
+import json
+
+securite = [json.loads(l) for l in open("data/themes/securite.jsonl", encoding="utf-8")]
+print(f"{len(securite)} passages sur la sécurité")
+```
+
+### Filtrer par date
+
+```python
+import json, datetime as dt
+
+kb = [json.loads(l) for l in open("data/kb.jsonl", encoding="utf-8")]
+recent = [e for e in kb
+          if e["date"] and e["date"] >= "2026-01-01"]
+print(f"{len(recent)} passages depuis janvier 2026")
+```
+
+### Utiliser la note de vision comme contexte
+
+```python
+vision = open("data/vision.md", encoding="utf-8").read()
+
+prompt = f"""Tu réponds sur les positions de David Lisnard.
+Appuie-toi sur cette synthèse, et cite le média et la date pour chaque fait.
+
+{vision}
+
+Question : que propose-t-il sur l'école ?
+"""
+```
+
+### Vérifier une citation
+
+```python
+import json
+
+kb = [json.loads(l) for l in open("data/kb.jsonl", encoding="utf-8")]
+extrait = "l'intérêt de la France c'est que la Russie ne gagne pas cette guerre"
+
+for e in kb:
+    if extrait in e["claim"]:
+        print(e["source_url"], e["date"], e["verification"])
+```
+
+## Un thème fourre-tout, assumé
+
+`data/themes/divers.jsonl` contient **623 passages (18 %)** qui n'ont pas trouvé de thème propre : politique familiale, retraites, vie municipale cannoise, chiffres d'adhésions. C'est le résultat d'un classement automatique imparfait, pas un oubli.
+
+Deux conséquences pratiques :
+- ne pas l'utiliser comme un thème politique cohérent ;
+- pour une recherche sérieuse, passer par `kb.jsonl` entier plutôt que par ce fichier.
+
+Un reclustering est prévu, mais il n'est pas fait.
+
+## Suivi des versions
+
+`CHANGELOG.md` liste ce qui a changé à chaque mise à jour : nombre de passages, sources ajoutées ou retirées, corrections de structure.
 
 ## Mise à jour
 
