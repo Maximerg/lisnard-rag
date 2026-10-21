@@ -6,6 +6,12 @@ Ce qui change dans le dépôt, mise à jour par mise à jour. Les comptes sont c
 
 **3510 passages, 25 thèmes.**
 
+Aucun changement de contenu : seuls les fichiers dérivés (statistiques, vision) ont été régénérés.
+
+## 2026-10-21
+
+**3510 passages, 25 thèmes.**
+
 Ajouté : **5** passage(s).
 
 - 5 · site Nouvelle Énergie
