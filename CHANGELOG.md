@@ -2,6 +2,12 @@
 
 Ce qui change dans le dépôt, mise à jour par mise à jour. Les comptes sont ceux de `data/kb.jsonl`.
 
+## 2026-10-25
+
+**3556 passages, 26 thèmes.**
+
+Aucun changement de contenu : seuls les fichiers dérivés (statistiques, vision) ont été régénérés.
+
 ## 2026-10-24
 
 **3556 passages, 26 thèmes.**
