@@ -4,6 +4,14 @@ Ce qui change dans le dépôt, mise à jour par mise à jour. Les comptes sont c
 
 ## 2026-10-25
 
+**3585 passages, 26 thèmes.**
+
+Ajouté : **29** passage(s).
+
+- 29 · YouTube
+
+## 2026-10-25
+
 **3556 passages, 26 thèmes.**
 
 Aucun changement de contenu : seuls les fichiers dérivés (statistiques, vision) ont été régénérés.
