@@ -4,6 +4,14 @@ Ce qui change dans le dépôt, mise à jour par mise à jour. Les comptes sont c
 
 ## 2026-10-27
 
+**3585 passages, 26 thèmes.**
+
+Retiré : **1** passage(s).
+
+- 1 · X @davidlisnard
+
+## 2026-10-27
+
 **3586 passages, 26 thèmes.**
 
 Ajouté : **1** passage(s).
