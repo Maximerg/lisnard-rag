@@ -1,13 +1,13 @@
 {
- "entries": 3603,
+ "entries": 3605,
  "themes": 26,
- "avec_date": 3034,
+ "avec_date": 3036,
  "sans_date": 569,
- "mots": 590663,
- "date_export": "2026-10-30",
+ "mots": 590757,
+ "date_export": "2026-10-31",
  "verification": "100 % des passages attribués et vérifiés",
  "sources": {
-  "X @davidlisnard": 598,
+  "X @davidlisnard": 599,
   "Site Nouvelle Énergie": 452,
   "citation (Instagram de David Lisnard)": 272,
   "Podcast": 249,
@@ -47,16 +47,16 @@
   "X (Twitter)": 6,
   "citation (Le Point, tribune)": 4,
   "citation (Marianne, tribune)": 4,
+  "post X @CompteurNE": 4,
   "citation (La Tribune, tribune)": 3,
   "citation (Valeurs actuelles, tribune)": 3,
   "citation (Le HuffPost, tribune)": 3,
   "citation (25 millions de propriétaires, tribune)": 3,
-  "post X @CompteurNE": 3,
   "citation (Nice-matin, tribune)": 1
  },
  "par_annee": {
   "sans": 569,
-  "2026": 1993,
+  "2026": 1995,
   "2025": 593,
   "2024": 106,
   "2023": 122,
@@ -69,8 +69,8 @@
   "2014": 1
  },
  "par_theme": {
-  "economie-travail": 673,
-  "divers": 648,
+  "economie-travail": 674,
+  "divers": 649,
   "etat-bureaucratie": 572,
   "securite": 489,
   "finances-publiques": 443,
