@@ -2,6 +2,14 @@
 
 Ce qui change dans le dépôt, mise à jour par mise à jour. Les comptes sont ceux de `data/kb.jsonl`.
 
+## 2026-11-01
+
+**3606 passages, 26 thèmes.**
+
+Ajouté : **1** passage(s).
+
+- 1 · post X @CompteurNE
+
 ## 2026-10-31
 
 **3605 passages, 26 thèmes.**
