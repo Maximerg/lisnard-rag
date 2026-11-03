@@ -1,10 +1,10 @@
 {
- "entries": 3608,
+ "entries": 3609,
  "themes": 26,
- "avec_date": 3039,
+ "avec_date": 3040,
  "sans_date": 569,
- "mots": 591405,
- "date_export": "2026-11-02",
+ "mots": 591436,
+ "date_export": "2026-11-03",
  "verification": "100 % des passages attribués et vérifiés",
  "sources": {
   "X @davidlisnard": 600,
@@ -43,9 +43,9 @@
   "citation (Le Journal du dimanche, tribune)": 10,
   "citation (Les Échos, tribune)": 9,
   "citation (La Revue politique et parlementaire, tribune)": 7,
+  "post X @CompteurNE": 7,
   "citation (Le Monde, tribune)": 6,
   "X (Twitter)": 6,
-  "post X @CompteurNE": 6,
   "citation (Le Point, tribune)": 4,
   "citation (Marianne, tribune)": 4,
   "citation (La Tribune, tribune)": 3,
@@ -56,7 +56,7 @@
  },
  "par_annee": {
   "sans": 569,
-  "2026": 1998,
+  "2026": 1999,
   "2025": 593,
   "2024": 106,
   "2023": 122,
@@ -70,7 +70,7 @@
  },
  "par_theme": {
   "economie-travail": 674,
-  "divers": 651,
+  "divers": 652,
   "etat-bureaucratie": 572,
   "securite": 489,
   "finances-publiques": 443,
