@@ -1,13 +1,13 @@
 {
- "entries": 3641,
+ "entries": 3642,
  "themes": 26,
- "avec_date": 3072,
+ "avec_date": 3073,
  "sans_date": 569,
- "mots": 592591,
+ "mots": 592735,
  "date_export": "2026-11-13",
  "verification": "100 % des passages attribués et vérifiés",
  "sources": {
-  "X @davidlisnard": 604,
+  "X @davidlisnard": 605,
   "Site Nouvelle Énergie": 452,
   "citation (Instagram de David Lisnard)": 272,
   "Podcast": 249,
@@ -56,7 +56,7 @@
  },
  "par_annee": {
   "sans": 569,
-  "2026": 2031,
+  "2026": 2032,
   "2025": 593,
   "2024": 106,
   "2023": 122,
@@ -70,7 +70,7 @@
  },
  "par_theme": {
   "economie-travail": 676,
-  "divers": 672,
+  "divers": 673,
   "etat-bureaucratie": 575,
   "securite": 491,
   "finances-publiques": 443,
