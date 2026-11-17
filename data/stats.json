@@ -1,10 +1,10 @@
 {
- "entries": 3667,
+ "entries": 3668,
  "themes": 26,
- "avec_date": 3098,
+ "avec_date": 3099,
  "sans_date": 569,
- "mots": 593438,
- "date_export": "2026-11-16",
+ "mots": 593469,
+ "date_export": "2026-11-17",
  "verification": "100 % des passages attribués et vérifiés",
  "sources": {
   "X @davidlisnard": 606,
@@ -35,7 +35,7 @@
   "citation (Atlantico, tribune)": 23,
   "citation (RMC)": 22,
   "citation (CNews / Europe 1)": 20,
-  "post X @CompteurNE": 19,
+  "post X @CompteurNE": 20,
   "parole_directe": 17,
   "citation (Assises de l'AFER)": 11,
   "citation (LCI)": 11,
@@ -56,7 +56,7 @@
  },
  "par_annee": {
   "sans": 569,
-  "2026": 2057,
+  "2026": 2058,
   "2025": 593,
   "2024": 106,
   "2023": 122,
@@ -69,7 +69,7 @@
   "2014": 1
  },
  "par_theme": {
-  "divers": 684,
+  "divers": 685,
   "economie-travail": 676,
   "etat-bureaucratie": 576,
   "securite": 494,
