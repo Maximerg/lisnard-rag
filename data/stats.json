@@ -1,20 +1,20 @@
 {
- "entries": 3668,
+ "entries": 3687,
  "themes": 26,
- "avec_date": 3099,
+ "avec_date": 3118,
  "sans_date": 569,
- "mots": 593469,
- "date_export": "2026-11-17",
+ "mots": 593996,
+ "date_export": "2026-11-18",
  "verification": "100 % des passages attribués et vérifiés",
  "sources": {
-  "X @davidlisnard": 606,
+  "X @davidlisnard": 607,
   "Site Nouvelle Énergie": 452,
   "citation (Instagram de David Lisnard)": 272,
   "Podcast": 249,
   "programme": 239,
   "YouTube": 196,
+  "site Nouvelle Énergie": 162,
   "programme officiel Nouvelle Énergie": 157,
-  "site Nouvelle Énergie": 145,
   "citation (L’Opinion, tribune)": 123,
   "fiche": 104,
   "citation (Le Crayon)": 85,
@@ -34,8 +34,8 @@
   "citation (CNews)": 29,
   "citation (Atlantico, tribune)": 23,
   "citation (RMC)": 22,
+  "post X @CompteurNE": 21,
   "citation (CNews / Europe 1)": 20,
-  "post X @CompteurNE": 20,
   "parole_directe": 17,
   "citation (Assises de l'AFER)": 11,
   "citation (LCI)": 11,
@@ -56,7 +56,7 @@
  },
  "par_annee": {
   "sans": 569,
-  "2026": 2058,
+  "2026": 2077,
   "2025": 593,
   "2024": 106,
   "2023": 122,
@@ -69,7 +69,7 @@
   "2014": 1
  },
  "par_theme": {
-  "divers": 685,
+  "divers": 702,
   "economie-travail": 676,
   "etat-bureaucratie": 576,
   "securite": 494,
@@ -78,7 +78,7 @@
   "ecologie-energie": 364,
   "institutions-democratie": 321,
   "collectivites": 287,
-  "europe-international": 236,
+  "europe-international": 237,
   "culture-identite": 225,
   "sante-social": 177,
   "agriculture": 177,
@@ -94,7 +94,7 @@
   "etre-maitre-de-notre-destin": 20,
   "candidat-2027": 17,
   "numerique-ia-science": 9,
-  "social-famille": 1
+  "social-famille": 2
  },
  "champs": [
   "id",
